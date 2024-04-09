@@ -1,0 +1,16 @@
+.body{
+    background-color: #c1e4e4;
+}
+
+.hero-text{
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10px;
+    justify-content: center;
+}
+
+.normal-text{
+    font-size: 16px;
+    text-align: center;
+}
